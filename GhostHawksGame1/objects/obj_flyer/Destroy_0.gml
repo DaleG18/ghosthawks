@@ -1,4 +1,4 @@
-/// @description create dead monster and play sound
+ /// @description create dead monster and play sound
 // You can write your code in this editor
 
 instance_create_layer(x, y, "Instances", dead_body)
